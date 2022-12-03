@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/xyk-dashboard-template/static/css/main.8fe10855.css",
-    "main.js": "/xyk-dashboard-template/static/js/main.e3b3244f.js",
-    "static/media/banner.png": "/xyk-dashboard-template/static/media/banner.e7e485889e91cd190c61.png",
-    "static/media/Covalent-Background_5.jpg": "/xyk-dashboard-template/static/media/Covalent-Background_5.cc7bc02bfb761a1dd343.jpg",
-    "static/media/covalent-logo-loop_dark_v2.gif": "/xyk-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
-    "static/media/logo.svg": "/xyk-dashboard-template/static/media/logo.00ecc9d53a63d053997c5a736dfe0291.svg",
-    "index.html": "/xyk-dashboard-template/index.html",
-    "static/media/alert.svg": "/xyk-dashboard-template/static/media/alert.6e5425f970eb5a1bc7107d2f8df36bf2.svg",
-    "main.8fe10855.css.map": "/xyk-dashboard-template/static/css/main.8fe10855.css.map",
-    "main.e3b3244f.js.map": "/xyk-dashboard-template/static/js/main.e3b3244f.js.map"
+    "main.css": "/static/css/main.23801908.css",
+    "main.js": "/static/js/main.5222c837.js",
+    "static/media/banner.png": "/static/media/banner.e7e485889e91cd190c61.png",
+    "static/media/background.png": "/static/media/background.be7e30c58eb5d6d7fbb0.png",
+    "static/media/covalent-logo-loop_dark_v2.gif": "/static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
+    "static/media/logo.svg": "/static/media/logo.d88d877bf30e90b60ded2909680cbf5e.svg",
+    "static/media/alert.svg": "/static/media/alert.3b4f60c31dba1a24069df5c29e3b4485.svg",
+    "index.html": "/index.html",
+    "main.23801908.css.map": "/static/css/main.23801908.css.map",
+    "main.5222c837.js.map": "/static/js/main.5222c837.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fe10855.css",
-    "static/js/main.e3b3244f.js"
+    "static/css/main.23801908.css",
+    "static/js/main.5222c837.js"
   ]
 }
