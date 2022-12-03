@@ -13,9 +13,6 @@ const Banner = ({head, subhead, img, color}) => {
           <h3 style={{color: color ? 'white' : '#FF4C8B'}}>{subhead}</h3>
           <div className="banner-title">
           <h1>{head}</h1>
-            <div className="tag" style={{backgroundColor:color}}>
-              Beta
-            </div>
           </div>
         </div>
       </a>

@@ -110,7 +110,7 @@ function App() {
       <Banner
           img={CONFIG.TEMPLATE.banner_picture !== "" ? CONFIG.TEMPLATE.banner_picture : null}
           head={CONFIG.TEMPLATE.title}
-          subhead={'Code Template'}
+          subhead={'Covex'}
           color={vibrant}
       />
       <div className="dropdownCont">

@@ -100,22 +100,6 @@ export default function CollectionView(props) {
                   onClick={()=>{history.push('/assets')}}
                 />
               </div>
-                    <div className="health-wrap">
-                        <table className="health-info">
-                            <div className="sm-title">Latest Block Height</div>
-                            <tr className="data-row">
-                                <div>{getHealth?.data?.items[0]?.latest_block_height.toLocaleString()}</div>
-                                <div>{getHealth?.data?.items[0]?.latest_block_signed_at.replace("T"," ").replace("Z","")}</div>
-                            </tr>
-                        </table>
-                        <table className="health-info">
-                            <div className="sm-title">Synced Blocked Height</div>
-                            <tr className="data-row">
-                                <div>{getHealth?.data?.items[0]?.synced_block_height?.toLocaleString()}</div>
-                                <div>{getHealth?.data?.items[0]?.synced_block_signed_at?.replace("T"," ").replace("Z","")}</div>
-                            </tr>
-                        </table>
-                    </div>
                     <div className="showcase-wrap">
                         <div className="dex-info-sec showcase-info">
                             <div className="title">{props.dexVal} INFO</div>
